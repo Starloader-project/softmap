@@ -1,0 +1,5 @@
+softmap v1
+
+method packageTest/DeobfuscatedClass.obfuscatedMethod?()V {
+    
+}
